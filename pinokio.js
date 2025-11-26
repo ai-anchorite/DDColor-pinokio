@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.7",
-  title: "DDColor2",
+  title: "DDColor",
   description: "",
   icon: "icon.png",
   menu: async (kernel, info) => {
